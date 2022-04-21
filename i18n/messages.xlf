@@ -1952,6 +1952,10 @@
           <context context-type="linenumber">44</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/ingressclass/template.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/job/template.html</context>
           <context context-type="linenumber">69</context>
         </context-group>
@@ -2324,8 +2328,20 @@
           <context context-type="linenumber">97</context>
         </context-group>
       </trans-unit>
+<<<<<<< HEAD
       <trans-unit id="374277779600579508" datatype="html">
         <source>Resource Limits</source>
+=======
+      <trans-unit id="8825668517883103754" datatype="html">
+        <source>Cluster Roles</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/clusterrole/template.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7531602241051125940" datatype="html">
+        <source>Objects</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/limits/template.html</context>
           <context context-type="linenumber">20</context>
@@ -2337,6 +2353,7 @@
           <context context-type="sourcefile">src/app/frontend/common/components/limits/template.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
+<<<<<<< HEAD
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/template.html</context>
           <context context-type="linenumber">105</context>
@@ -2358,6 +2375,11 @@
       </trans-unit>
       <trans-unit id="4575431999029130927" datatype="html">
         <source>Default request</source>
+=======
+      </trans-unit>
+      <trans-unit id="1341665337915148247" datatype="html">
+        <source>Cron Jobs</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/limits/template.html</context>
           <context context-type="linenumber">52</context>
@@ -2393,6 +2415,33 @@
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/event/template.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
+<<<<<<< HEAD
+=======
+      </trans-unit>
+      <trans-unit id="2369423116644077158" datatype="html">
+        <source>Versions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/crdversion/template.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="688793765047273389" datatype="html">
+        <source>Served</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/crdversion/template.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="57403663622654391" datatype="html">
+        <source>Storage</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/crdversion/template.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="942673842903775268" datatype="html">
+        <source>Daemon Sets</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/horizontalpodautoscaler/template.html</context>
           <context context-type="linenumber">50</context>
@@ -2465,6 +2514,30 @@
           <context context-type="sourcefile">src/app/frontend/resource/workloads/deployment/detail/template.html</context>
           <context context-type="linenumber">232</context>
         </context-group>
+<<<<<<< HEAD
+=======
+      </trans-unit>
+      <trans-unit id="2803293796008679153" datatype="html">
+        <source>Ingress Classes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/ingressclass/template.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8394382410283043922" datatype="html">
+        <source>Controller</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/ingressclass/template.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingressclass/detail/template.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1366161163946896063" datatype="html">
+        <source>Ingresses</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/settings/global/namespace/adddialog/template.html</context>
           <context context-type="linenumber">29</context>
@@ -3030,8 +3103,13 @@
       <trans-unit id="3381412717703555378" datatype="html">
         <source>Object</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/event/template.html</context>
           <context context-type="linenumber">95</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">67,68</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="2914974644465021764" datatype="html">
@@ -3041,140 +3119,255 @@
           <context context-type="linenumber">114</context>
         </context-group>
       </trans-unit>
+<<<<<<< HEAD
       <trans-unit id="8177873832400820695" datatype="html">
         <source>Count</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/event/template.html</context>
           <context context-type="linenumber">125</context>
+=======
+      <trans-unit id="1813894172148248223" datatype="html">
+        <source>Ingress Classes </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1473017346308176259" datatype="html">
+        <source>Services </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">82</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="8299215096475112763" datatype="html">
         <source>First Seen</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/event/template.html</context>
           <context context-type="linenumber">134</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">88</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3856193213296741054" datatype="html">
         <source>Last Seen</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/event/template.html</context>
           <context context-type="linenumber">146</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">94,95</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="6157826473930539567" datatype="html">
         <source>Horizontal Pod Autoscalers</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/horizontalpodautoscaler/template.html</context>
           <context context-type="linenumber">22</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">100,101</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3413133151717525161" datatype="html">
         <source>Min Replicas</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/horizontalpodautoscaler/template.html</context>
           <context context-type="linenumber">56</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">106</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="2127150478980536520" datatype="html">
         <source>Max Replicas</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/horizontalpodautoscaler/template.html</context>
           <context context-type="linenumber">62</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">110</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3147371091697922238" datatype="html">
         <source>Reference</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/horizontalpodautoscaler/template.html</context>
           <context context-type="linenumber">68</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">116</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3501167321553405640" datatype="html">
         <source>CPU requests (cores)</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/node/template.html</context>
           <context context-type="linenumber">88</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">120,121</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="4114469166359843365" datatype="html">
         <source>CPU limits (cores)</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/node/template.html</context>
           <context context-type="linenumber">99</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">125</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="4439126314764642092" datatype="html">
         <source>Memory requests (bytes)</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/node/template.html</context>
           <context context-type="linenumber">110</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">130</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="2335697433764621013" datatype="html">
         <source>Memory limits (bytes)</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/node/template.html</context>
           <context context-type="linenumber">121</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">134</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="8384742917026482252" datatype="html">
         <source>Phase</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/namespace/template.html</context>
           <context context-type="linenumber">72</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">139,140</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/resource/cluster/node/detail/template.html</context>
           <context context-type="linenumber">30</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">144</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="7825570888384392250" datatype="html">
         <source>Capacity</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolume/template.html</context>
           <context context-type="linenumber">63</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">148,149</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolumeclaim/template.html</context>
           <context context-type="linenumber">108</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/template.html</context>
           <context context-type="linenumber">98</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">154,155</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/resource/config/persistentvolumeclaim/detail/template.html</context>
           <context context-type="linenumber">49</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">160</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="5055611162892898285" datatype="html">
         <source>Access Modes</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolume/template.html</context>
           <context context-type="linenumber">73</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">165,166</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolumeclaim/template.html</context>
           <context context-type="linenumber">119</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">173,174</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/resource/config/persistentvolumeclaim/detail/template.html</context>
           <context context-type="linenumber">58</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">192</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3026305820283888836" datatype="html">
         <source>Reclaim Policy</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolume/template.html</context>
           <context context-type="linenumber">83</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">197</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="465183468069102061" datatype="html">
         <source>Claim</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/resourcelist/persistentvolume/template.html</context>
           <context context-type="linenumber">101</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/chrome/nav/template.html</context>
+          <context context-type="linenumber">184</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/template.html</context>
@@ -3334,6 +3527,7 @@
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
+<<<<<<< HEAD
       <trans-unit id="6031271337180125854" datatype="html">
         <source>Windows Run as User</source>
         <context-group purpose="location">
@@ -3350,6 +3544,10 @@
       </trans-unit>
       <trans-unit id="7769329651019167020" datatype="html">
         <source>Run as Group</source>
+=======
+      <trans-unit id="8280397690227731001" datatype="html">
+        <source>Restart a resource</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/securitycontext/template.html</context>
           <context context-type="linenumber">65</context>
@@ -3369,8 +3567,31 @@
           <context context-type="linenumber">76</context>
         </context-group>
       </trans-unit>
+<<<<<<< HEAD
       <trans-unit id="2306073262722397834" datatype="html">
         <source>Seccomp Localhost Profile</source>
+=======
+      <trans-unit id="4493030647783338212" datatype="html">
+        <source>Edit a resource</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/dialogs/editresource/template.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4021752662928002901" datatype="html">
+        <source>Update</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/common/dialogs/editresource/template.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/config/secret/detail/edit/template.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6929072613146586031" datatype="html">
+        <source>Scale a resource</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/common/components/securitycontext/template.html</context>
           <context context-type="linenumber">81</context>
@@ -3449,22 +3670,37 @@
       <trans-unit id="5972502836680454671" datatype="html">
         <source>Subjects</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/subject/template.html</context>
           <context context-type="linenumber">20</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/overview/template.html</context>
+          <context context-type="linenumber">58</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="656108017672590950" datatype="html">
         <source>API Group</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/subject/template.html</context>
           <context context-type="linenumber">63</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/search/template.html</context>
+          <context context-type="linenumber">54</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="8790013339766634216" datatype="html">
         <source>Read Only</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/volumemount/template.html</context>
           <context context-type="linenumber">40</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/overview/template.html</context>
+          <context context-type="linenumber">66</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/source/template.html</context>
@@ -3488,22 +3724,37 @@
       <trans-unit id="284876663522831141" datatype="html">
         <source>Source Type</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/volumemount/template.html</context>
           <context context-type="linenumber">55</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/search/template.html</context>
+          <context context-type="linenumber">62</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="3348508131663910333" datatype="html">
         <source>Source Name</source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/common/components/volumemount/template.html</context>
           <context context-type="linenumber">60</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/overview/template.html</context>
+          <context context-type="linenumber">75</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="728108318392658678" datatype="html">
         <source> Shell in <x id="START_TAG_MAT_SELECT" ctype="x-mat_select" equiv-text="&quot;\uFFFD*3:1\uFFFD\uFFFD#1:1\uFFFD&quot;"/><x id="START_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&quot;\uFFFD*2:2\uFFFD\uFFFD#1:2\uFFFD&quot;"/> <x id="INTERPOLATION" equiv-text="&quot;\uFFFD0:2\uFFFD&quot;"/> <x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&quot;\uFFFD/#1:2\uFFFD\uFFFD/*2:2\uFFFD&quot;"/><x id="CLOSE_TAG_MAT_SELECT" ctype="x-mat_select" equiv-text="&quot;\uFFFD/#1:1\uFFFD\uFFFD/*3:1\uFFFD&quot;"/> in <x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> </source>
         <context-group purpose="location">
+<<<<<<< HEAD
           <context context-type="sourcefile">src/app/frontend/shell/template.html</context>
           <context context-type="linenumber">22,33</context>
+=======
+          <context context-type="sourcefile">src/app/frontend/search/template.html</context>
+          <context context-type="linenumber">70</context>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         </context-group>
       </trans-unit>
       <trans-unit id="1021548113296205274" datatype="html">
@@ -3998,6 +4249,10 @@
           <context context-type="linenumber">23</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingressclass/detail/template.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/discovery/service/detail/template.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
@@ -4038,6 +4293,10 @@
         <source>Parameter</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/config/storageclass/detail/template.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingressclass/detail/template.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
@@ -4242,6 +4501,7 @@
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/source/template.html</context>
           <context context-type="linenumber">65</context>
         </context-group>
+<<<<<<< HEAD
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/source/template.html</context>
           <context context-type="linenumber">91</context>
@@ -4272,6 +4532,11 @@
       </trans-unit>
       <trans-unit id="9215033217818992636" datatype="html">
         <source>Read only</source>
+=======
+      </trans-unit>
+      <trans-unit id="2796603716274587287" datatype="html">
+        <source>Label Selector</source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/source/template.html</context>
           <context context-type="linenumber">45</context>
@@ -4366,8 +4631,55 @@
           <context context-type="linenumber">212</context>
         </context-group>
       </trans-unit>
+<<<<<<< HEAD
       <trans-unit id="351374947873599306" datatype="html">
         <source>Volume Handle</source>
+=======
+      <trans-unit id="1070281023803369713" datatype="html">
+        <source>Ingress Class Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7613204568422973266" datatype="html">
+        <source>Default Backend</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8604852007710946848" datatype="html">
+        <source>Service Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9054116104324393944" datatype="html">
+        <source>Service Port Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3611950223744571613" datatype="html">
+        <source>Service Port Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="187187500641108332" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/frontend/resource/discovery/ingress/detail/template.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43228639508046926" datatype="html">
+        <source>Completions: </source>
+>>>>>>> 008a153d6 (Add support for IngressClass [#5232])
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/resource/cluster/persistentvolume/detail/source/template.html</context>
           <context context-type="linenumber">217</context>
